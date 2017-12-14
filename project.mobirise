@@ -23,7 +23,7 @@
         "display7Size": "1.1",
         "display4Font": "Istok Web",
         "display4Size": 1,
-        "isRoundedButtons": true,
+        "isRoundedButtons": false,
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
       },
@@ -33,7 +33,7 @@
       ]
     },
     "favicon": "",
-    "noImageResize": "",
+    "noImageResize": "true",
     "versionFirst": "4.5.0",
     "uniqCompNum": 189,
     "versionPublish": "4.5.0",
