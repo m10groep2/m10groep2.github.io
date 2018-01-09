@@ -40,7 +40,7 @@
     "path": "file:///Users/lieve/Downloads",
     "screenshot": "screenshot.png",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-112162165-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-112162165-1');\r\n</script>\r\n\r\n",
-    "cookiesAlert": "Om je beter en persoonlijker te helpen, gebruiken wij cookies en vergelijkbare technieken. Met de cookies volgen wij en derde partijen jouw internetgedrag binnen onze site. Hiermee tonen we advertenties op basis van jouw interesse en kun je informatie delen via social media. Als je verdergaat op onze website gaan we ervan uit dat je dat goed vindt.",
+    "cookiesAlert": "Deze website maakt gebruik van cookies en vergelijkbare technieken. Met de cookies volgen wij en derde partijen jouw internetgedrag binnen onze site. Als je verdergaat op onze website gaan we ervan uit dat je dat goed vindt.",
     "siteUrl": "undefined"
   },
   "pages": {
